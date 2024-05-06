@@ -1,2 +1,3 @@
 # .github
-Company introduction
+
+Company default repo
