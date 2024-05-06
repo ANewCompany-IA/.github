@@ -1,6 +1,6 @@
 # ANewCompany.IA
 
-This demo company was build to showcase the beneftis of using IA to boost existing applications.
+This demo company was built to showcase the beneftis of using IA to boost existing applications.
 
 <!--
 
